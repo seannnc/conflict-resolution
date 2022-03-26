@@ -1,3 +1,3 @@
 # conflict-resolution
 
-creating conflict
+creating conflict  
